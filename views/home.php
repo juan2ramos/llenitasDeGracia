@@ -1,4 +1,8 @@
 <section class="home">
+    <div id="homeFigure">
+        <figure><img src="images/logo-llenitas-de-gracia.png" alt=""/></figure>
+        <p><a href="tel:3167668821">Pide tu domicilio aquí  <br/>  316 7668821</a> Visítanos  Calle 51 # 6 - 35 Bogotá</p>
+    </div>
     <div id="owl-demo" class="owl-carousel">
         <div>
             <img src="images/slide/1.jpg">

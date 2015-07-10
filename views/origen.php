@@ -32,7 +32,6 @@
     </p>
 
 
-
     <h2>Qué es Llenitas de Gracia</h2>
 
     <p>
@@ -60,6 +59,7 @@
         La arepa, alimento tradicional colombiano, decide llenarse de la gracia de diversos sabores del
         mundo, ofreciendo una propuesta gastronómica para el disfrute y deleite de quien la consume.
     </p>
+
     <p>
         Para empezar esta travesía LLENITAS DE GRACIA comienza en casa y viaja a varios países rescatando recetas
         tradicionales aportándole un toque personal a cada una de ellas.
@@ -80,24 +80,108 @@
         <li>
             Elige una de nuestras recetas sugeridas
 
-            *Nombre y foto de cada preparación linkeada a la descripción**.
-
             <div class="images">
-                <div><figure><img src="images/slide/1.jpg" alt=""/><figcaption>AREPA Ligera</figcaption></figure>  </div>
-                <div> <figure><img src="images/slide/2.jpg" alt=""/><figcaption>AREPA HAMBURG STEAK</figcaption></figure></div>
-                <div> <figure><img src="images/slide/3.jpg" alt=""/><figcaption>AREPA REINA PEPEADA</figcaption></figure></div>
-                <div> <figure><img src="images/slide/4.jpg" alt=""/><figcaption>AREPA LA SAMARIA</figcaption></figure></div>
-                <div>   <figure><img src="images/slide/5.jpg" alt=""/><figcaption>AREPA SANTORINI</figcaption></figure></div>
-                <div> <figure><img src="images/slide/6.jpg" alt=""/><figcaption>AREPA DE GUANAJUATO</figcaption></figure></div>
-                <div>  <figure><img src="images/slide/7.jpg" alt=""/><figcaption>AREPA DE CAPRI</figcaption></figure></div>
-                <div>  <figure><img src="images/slide/8.jpg" alt=""/><figcaption>AREPA LA LIMEÑA</figcaption></figure></div>
-                <div>   <figure><img src="images/slide/9.jpg" alt=""/><figcaption>AREPA BREAKFAST</figcaption></figure></div>
-                <div>   <figure><img src="images/slide/10.jpg" alt=""/><figcaption>AREPA DE LA TIERRITA</figcaption></figure></div>
+                <div>
+                    <figure><img src="images/slide/1.jpg" alt=""/>
+                        <figcaption class="more"><h3>AREPA Ligera </h3>
+
+                            <p>Para quienes quieren una opción sencilla pero llena de gracia para iniciar el día, el
+                                jamón de pavo con queso mozzarella, se convierten en la elección perfecta. Se recomienda
+                                con AREPA PARRILLA.</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/2.jpg" alt=""/>
+                        <figcaption>
+                            <h3>
+                                <AREPA>HAMBURG STEAK
+                            </h3>
+                            <p>Originaria de Hamburgo y popularizada en Estados Unidos, la arepa en su recorrido se
+                                llena d e la gracia de la tradicional hamburguesa preparada con bola de res y punta de
+                                anca molida; tocineta, q ueso chedar, tomate verde, cebolla roja y lechuga. Se
+                                recomienda con AREPA PARRILLA.</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/3.jpg" alt=""/>
+                        <figcaption><h3>AREPA REINA PEPEADA</h3>
+
+                            <p>Llenita de la gracia de la arepa mas famosa y tradicional de Venezuela, mezcla de pollo
+                                parril lado con aguacate macerado, perejil cebolla, queso y con un toque de la casa:
+                                Caraotas.</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/4.jpg" alt=""/>
+                        <figcaption><h3>AREPA LA SAMARIA</h3>
+
+                            <p>Recogiendo los sabores de la gastronomía de la costa colombiana, la arepa se llena de la
+                                gracia del coctel clasico de camaron tigre, cebolla, salsa coctel, tabasco, limón y agua
+                                de ajo. Se recomi enda con AREPA FRITA.</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/5.jpg" alt=""/>
+                        <figcaption><h3>AREPA SANTORINI</h3>
+
+                            <p>La arepa se llena de la gracia del Gyro, tradicional preparación griega de tomate rojo,
+                                ceb olla roja, lechuga, papas fritas, acompanado de salsa Tzatziki a base de yogurt
+                                griego, pepino rallado, ac eite de oliva, jugo de limón, ajo, perejil y pimienta negra;
+                                y con el toque de la casa: Pollo marinado en especias. Se recomienda con AREPA
+                                PARRILLA.</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/6.jpg" alt=""/>
+                        <figcaption><h3>AREPA DE GUANAJUATO</h3>
+
+                            <p>Representando a la cultura mexicana la arepa se perfila como una opción para reemplaza r
+                                la tradicional tortilla y llenarse de la gracia de los sabores mexicanos con pollo
+                                parrillado, fríjol negro, salsa suave, pico de gallo, lechuga, guacamole, jalapenos,
+                                queso rallado y crema agria. Se recomienda con AREPA FRITA</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/7.jpg" alt=""/>
+                        <figcaption><h3>AREPA DE CAPRI</h3>
+
+                            <p>Entrando al viejo continente, y rescatando una fresca preparación italiana, la arepa se
+                                llena de la gracia de la ensalada Caprese, compuesta de rodajas de tomate, mozzarella,
+                                albahaca, pimienta n egra y aceite de oliva. Se recomienda con AREPA PARRILLA</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/8.jpg" alt=""/>
+                        <figcaption><h3>AREPA LA LIMEÑA</h3>
+
+                            <p>La aventura gastronómica de la arepa se llena de la gracia de un plato tradicional del
+                                Perú, lomo saltado con salsa de soya, ají panca, tomate rojo, cebolla roja, cilantro y
+                                ajo. Se recomienda con AREPA PARRILLA.</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/9.jpg" alt=""/>
+                        <figcaption><h3>AREPA BREAKFAST</h3>
+                        <p>La mezcla del huevo con tocineta, popular de la cocina inglesa, se fusiona con cebollín, queso mozzarella pimienta y sal, para llenar de gracia todas tus mañanas. Se recomienda con AREPA PARRILLA.</p></figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure><img src="images/slide/10.jpg" alt=""/>
+                        <figcaption><h3>AREPA DE LA TIERRITA</h3>
+
+                            <p>Llenita de la gracia del tradicional calentado paisa, se recomienda como opción al
+                                desayuno una mezcla de sabores muy conocidos por los colombianos, res desmechada, hogao,
+                                cilantro, chorizo, chicharrón, platanitos maduros, y el toque de la casa fríjol negro.
+                                Se recomienda con AREPA PARRILLA.</p></figcaption>
+                    </figure>
+                </div>
             </div>
         </li>
         <li>
             Usa tu creatividad y Llena de Gracia tu AREPA
-            *Foto de todos los Toping, cuando el escrol pase por encima de cada foto sale el nombre**.
+
         </li>
     </ol>
 
