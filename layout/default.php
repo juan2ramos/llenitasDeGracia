@@ -73,11 +73,9 @@
         <ul>
             <li><a href="home">home</a></li>
             <li><a href="menu">menú</a></li>
-            <li><a href="#">recomendada</a></li>
             <li><a href="origen">el origen</a></li>
             <li><a href="contacto">contacto</a></li>
             <li><a href="domicilios">Domicilios</a></li>
-            <li><a href="#">eventos</a></li>
         </ul>
     </nav>
     <div class="domicilios-fixed">

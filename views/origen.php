@@ -83,16 +83,16 @@
             *Nombre y foto de cada preparación linkeada a la descripción**.
 
             <div class="images">
-                <div><figure><img src="images/slide/1.jpg" alt=""/></figure></div>
-                <div> <figure><img src="images/slide/2.jpg" alt=""/></figure></div>
-                <div> <figure><img src="images/slide/3.jpg" alt=""/></figure></div>
-                <div> <figure><img src="images/slide/4.jpg" alt=""/></figure></div>
-                <div>   <figure><img src="images/slide/5.jpg" alt=""/></figure></div>
-                <div> <figure><img src="images/slide/6.jpg" alt=""/></figure></div>
-                <div>  <figure><img src="images/slide/7.jpg" alt=""/></figure></div>
-                <div>  <figure><img src="images/slide/8.jpg" alt=""/></figure></div>
-                <div>   <figure><img src="images/slide/9.jpg" alt=""/></figure></div>
-                <div>   <figure><img src="images/slide/10.jpg" alt=""/></figure></div>
+                <div><figure><img src="images/slide/1.jpg" alt=""/><figcaption>AREPA Ligera</figcaption></figure>  </div>
+                <div> <figure><img src="images/slide/2.jpg" alt=""/><figcaption>AREPA HAMBURG STEAK</figcaption></figure></div>
+                <div> <figure><img src="images/slide/3.jpg" alt=""/><figcaption>AREPA REINA PEPEADA</figcaption></figure></div>
+                <div> <figure><img src="images/slide/4.jpg" alt=""/><figcaption>AREPA LA SAMARIA</figcaption></figure></div>
+                <div>   <figure><img src="images/slide/5.jpg" alt=""/><figcaption>AREPA SANTORINI</figcaption></figure></div>
+                <div> <figure><img src="images/slide/6.jpg" alt=""/><figcaption>AREPA DE GUANAJUATO</figcaption></figure></div>
+                <div>  <figure><img src="images/slide/7.jpg" alt=""/><figcaption>AREPA DE CAPRI</figcaption></figure></div>
+                <div>  <figure><img src="images/slide/8.jpg" alt=""/><figcaption>AREPA LA LIMEÑA</figcaption></figure></div>
+                <div>   <figure><img src="images/slide/9.jpg" alt=""/><figcaption>AREPA BREAKFAST</figcaption></figure></div>
+                <div>   <figure><img src="images/slide/10.jpg" alt=""/><figcaption>AREPA DE LA TIERRITA</figcaption></figure></div>
             </div>
         </li>
         <li>
