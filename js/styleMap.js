@@ -104,3 +104,49 @@ var path = [
     new google.maps.LatLng(4.650235448057095, -74.04868874698877)];
 var polyline = new google.maps.Polygon({path: path, strokeColor: "#594e41    ", strokeOpacity: 1.0, strokeWeight: 4});
 
+var map;
+
+function initialize() {
+
+
+    var loc = new google.maps.LatLng(4.637042, -74.062692);
+    var myLatLng = new google.maps.LatLng(4.642303, -74.061619);
+    var mapOptions = {
+        /*
+         drag: false,
+         dragend: false,
+         dragstart: false,
+         draggable: false,
+         scrollwheel: false,
+         navigationControl: false,
+         mapTypeControl: false,
+         scaleControl: false,*/
+
+        zoom: 14,
+        center: myLatLng,
+        styles: styleMap
+    };
+    map = new google.maps.Map(document.getElementById('map-canvas'),
+        mapOptions);
+    var image = 'images/icon.png';
+
+
+    var myLatLng = new google.maps.LatLng(4.637042, -74.062692);
+    var beachMarker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        icon: image,
+        animation: google.maps.Animation.DROP,
+        content: 'I am the content of this infobox. Wow, what a text.<br><br><a href="#">The good thing is: Tags are also possible</a>'
+    });
+
+    polyline.setMap(map);
+    shapes.push(polyline);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+
+
+
+

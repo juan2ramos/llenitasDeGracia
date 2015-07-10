@@ -28,7 +28,7 @@ $(function () {
 
 
     owl.owlCarousel({
-        //autoPlay: 5000,
+        autoPlay: 5000,
         navigation: true,
         paginationSpeed: 1000,
         goToFirstSpeed: 2000,
@@ -52,7 +52,6 @@ $(function () {
     })
 });
 function updateSize() {
-
     var heightContent = parseInt($('.owl-item').height()),
         widthContent = parseInt($('.owl-item').width()),
         ratioContent = widthContent / heightContent;
@@ -95,48 +94,3 @@ $('.images figcaption').on('click', function () {
 
 });
 $(window).resize(updateSize);
-
-var map;
-
-function initialize() {
-
-
-    var loc = new google.maps.LatLng(4.637042, -74.062692);
-    var myLatLng = new google.maps.LatLng(4.642303, -74.061619);
-    var mapOptions = {
-        /*
-         drag: false,
-         dragend: false,
-         dragstart: false,
-         draggable: false,
-         scrollwheel: false,
-         navigationControl: false,
-         mapTypeControl: false,
-         scaleControl: false,*/
-
-        zoom: 14,
-        center: myLatLng,
-        styles: styleMap
-    };
-    map = new google.maps.Map(document.getElementById('map-canvas'),
-        mapOptions);
-    var image = 'images/icon.png';
-
-
-    var myLatLng = new google.maps.LatLng(4.637042, -74.062692);
-    var beachMarker = new google.maps.Marker({
-        position: myLatLng,
-        map: map,
-        icon: image,
-        animation: google.maps.Animation.DROP,
-        content: 'I am the content of this infobox. Wow, what a text.<br><br><a href="#">The good thing is: Tags are also possible</a>'
-    });
-
-    polyline.setMap(map);
-    shapes.push(polyline);
-}
-
-google.maps.event.addDomListener(window, 'load', initialize);
-
-
-
