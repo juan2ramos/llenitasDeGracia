@@ -34,11 +34,9 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36488813" vertical-offset="13734" max-vertical-offset="17651">
-              <caret line="734" column="15" selection-start-line="734" selection-start-column="15" selection-end-line="734" selection-end-column="15" />
-              <folding>
-                <marker date="1436565195000" expanded="true" signature="3836:3953" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.49569708" vertical-offset="11777" max-vertical-offset="18468">
+              <caret line="635" column="1" selection-start-line="635" selection-start-column="1" selection-end-line="635" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -327,9 +325,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15052" max-vertical-offset="15732">
           <caret line="821" column="18" selection-start-line="821" selection-start-column="18" selection-end-line="821" selection-end-column="18" />
-          <folding>
-            <marker date="1436565195000" expanded="true" signature="3836:3953" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -385,9 +381,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3151" max-vertical-offset="3781">
           <caret line="183" column="22" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
-          <folding>
-            <marker date="1436565195000" expanded="true" signature="3836:3953" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -419,9 +413,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2736">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1436565195000" expanded="true" signature="3836:3953" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -552,11 +544,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36488813" vertical-offset="13734" max-vertical-offset="17651">
-          <caret line="734" column="15" selection-start-line="734" selection-start-column="15" selection-end-line="734" selection-end-column="15" />
-          <folding>
-            <marker date="1436565195000" expanded="true" signature="3836:3953" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.49569708" vertical-offset="11777" max-vertical-offset="18468">
+          <caret line="635" column="1" selection-start-line="635" selection-start-column="1" selection-end-line="635" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
