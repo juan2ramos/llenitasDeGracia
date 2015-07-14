@@ -340,7 +340,7 @@ menu
 }
 
 .menu article {
-    min-width: 33%;
+    min-width: 33.5%;
     padding: 16px;
 }
 
@@ -350,6 +350,9 @@ menu
 
 #menu article:last-child {
     padding-right: 32px;
+}
+#menu article:nth-child(2) {
+    padding: 16px 24px;
 }
 
 #menu h2 {
@@ -379,9 +382,12 @@ menu
     font-family: 'Lato', sans-serif;
     font-size: .9rem;
     line-height: 1.2rem;
-    text-align: left;
+    text-align: justify;
+    margin: 4px 0;
 }
-
+#menu figure img{
+    border: 8px solid;
+}
 .column-2 {
     display: inline-block;
     font-family: 'Lato', sans-serif;

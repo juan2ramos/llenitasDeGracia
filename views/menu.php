@@ -14,10 +14,10 @@
 
             <?php include "images/flor.svg" ?>
             <h1>Llena de Gracia las mañanas…</h1>
-
-            <div claleft topleft">
+            
+            <div class =  "left topleft">
                 <h2>arepa de la tierrita</h2>
-
+                <figure><img src="images/slide/10.jpg" alt="Arepa de la tierrita"/></figure>
                 <p>
                     Llenita de la gracia del tradicional calentado paisa, se recomienda como opción al desayuno
                     una mezcla
@@ -26,10 +26,13 @@
                     Se recomienda con AREPA PARRILLA.
                 </p>
                 <span class="money">$12.500</span>
+
+
             </div>
             <div class="right">
                 <h2>arepa BREAKFAST</h2>
 
+                <figure><img src="images/slide/9.jpg" alt="Arepa de la tierrita"/></figure>
                 <p>
                     La mezcla del huevo con tocineta, popular de la cocina inglesa, se fusiona con cebollín, queso
                     mozzarella pimienta y sal, para llenar de gracia todas tus mañanas.
@@ -39,7 +42,7 @@
             </div>
             <div class="left">
                 <h2>Arepa ligera</h2>
-
+                <figure><img src="images/slide/1.jpg" alt="Arepa de la tierrita"/></figure>
                 <p>
                     Para quienes quieren una opción sencilla pero llena de gracia para iniciar el día, el jamón de
                    pavo con
@@ -52,9 +55,9 @@
             <?php include "images/flor.svg" ?>
             <h1>LLENA DE GRACIA TODO EL DÍA...</h1>
 
-            <div claleft topleft">
+            <div class="left topleft">
                 <h2>arepa la samaria</h2>
-
+                <figure><img src="images/slide/4.jpg" alt="Arepa de la tierrita"/></figure>
                 <p> Recogiendo los sabores de la gastronomía de la costa colombiana, la arepa se llena de la gracia del
                     coctel clasico de camaron tigre, cebolla, salsa coctel, tabasco, limón y agua de ajo. Se recomi
                    enda con
@@ -63,7 +66,7 @@
             </div>
             <div class="right">
                 <h2>Arepa Reina pepeada</h2>
-
+                <figure><img src="images/slide/3.jpg" alt="Arepa de la tierrita"/></figure>
                 <p> Llenita de la gracia de la arepa mas famosa y tradicional de Venezuela, mezcla de pollo parril
                    lado con
                     aguacate macerado, perejil cebolla, queso y con un toque de la casa: Caraotas.
@@ -72,7 +75,7 @@
             </div>
             <div class="left">
                 <h2>arepa la limena</h2>
-
+                <figure><img src="images/slide/8.jpg" alt="Arepa de la tierrita"/></figure>
                 <p>La aventura gastronómica de la arepa se llena de la gracia de un plato tradicional del Perú,
                    lomo saltado
                     con salsa de soya, ají panca, tomate rojo, cebolla roja, cilantro y ajo.
@@ -81,7 +84,7 @@
             </div>
             <div class="right">
                 <h2>arepa de guanajuato</h2>
-
+                <figure><img src="images/slide/6.jpg" alt="Arepa de la tierrita"/></figure>
                 <p> Representando a la cultura mexicana la arepa se perfila como una opción para reemplaza
                    r la tradicional
                     tortilla y llenarse de la gracia de los sabores mexicanos con pollo parrillado, fríjol negro, salsa
@@ -91,7 +94,7 @@
             </div>
             <div class="left">
                 <h2>arepa Hamburg Steak</h2>
-
+                <figure><img src="images/slide/2.jpg" alt="Arepa de la tierrita"/></figure>
                 <p> Originaria de Hamburgo y popularizada en Estados Unidos, la arepa en su recorrido se llena d
                    e la gracia
                     de la tradicional hamburguesa preparada con bola de res y punta de anca molida; tocineta, q
@@ -101,7 +104,7 @@
             </div>
             <div class="right">
                 <h2>arepa de capri</h2>
-
+                <figure><img src="images/slide/7.jpg" alt="Arepa de la tierrita"/></figure>
                 <p>Entrando al viejo continente, y rescatando una fresca preparación italiana, la arepa se llena de la
                     gracia de la ensalada Caprese, compuesta de rodajas de tomate, mozzarella, albahaca, pimienta n
                    egra y
@@ -111,7 +114,7 @@
             </div>
             <div class="left">
                 <h2>arepa de santorini</h2>
-
+                <figure><img src="images/slide/5.jpg" alt="Arepa de la tierrita"/></figure>
                 <p> La arepa se llena de la gracia del Gyro, tradicional preparación griega de tomate rojo, ceb
                    olla roja,
                     lechuga, papas fritas, acompanado de salsa Tzatziki a base de yogurt griego, pepino rallado, ac
